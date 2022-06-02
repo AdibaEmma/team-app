@@ -1,5 +1,5 @@
 {
-  "name": "angular-crashcourse",
+  "name": "team-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -23,7 +23,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~13.1.4",
+    "@angular-devkit/build-angular": "^13.3.7",
     "@angular/cli": "~13.1.4",
     "@angular/compiler-cli": "~13.1.0",
     "@types/jasmine": "~3.10.0",
